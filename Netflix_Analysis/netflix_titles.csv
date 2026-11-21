@@ -1,0 +1,21 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Dick Johnson Is Dead,Kirsten Johnson,Unknown,United States,"September 25, 2021",2020,PG-13,90 min,Documentaries,A filmmaker examines her father's life.
+s2,TV Show,Blood & Water,Unknown,"Ama Qamata, Khosi Ngema",South Africa,"September 24, 2021",2021,TV-MA,2 Seasons,"International TV Shows, TV Dramas",A local teen uncovers family secrets.
+s3,Movie,My Little Pony: A New Generation,Robert Cullen,"Vanessa Hudgens, Kimiko Glenn",United States,"September 24, 2021",2021,PG,91 min,"Children & Family Movies, Comedies",Ponies work together to restore magic.
+s4,Movie,The Starling,Theodore Melfi,"Melissa McCarthy, Chris O'Dowd",United States,"September 24, 2021",2021,PG-13,104 min,"Comedies, Dramas",A woman finds hope after loss.
+s5,TV Show,Ganglands,Unknown,"Sami Bouajila, Tracy Gotoas",France,"September 24, 2021",2021,TV-MA,1 Season,"Crime TV Shows, International TV Shows",A skilled thief becomes involved in a gang war.
+s6,Movie,Jaws,Steven Spielberg,"Roy Scheider, Robert Shaw",United States,"August 1, 2021",1975,PG,124 min,"Action & Adventure, Classic Movies",A seaside town faces a dangerous shark.
+s7,Movie,The Great Gatsby,Baz Luhrmann,"Leonardo DiCaprio, Tobey Maguire","Australia, United States","December 1, 2020",2013,PG-13,143 min,"Dramas, Romantic Movies",A mysterious millionaire hosts lavish parties.
+s8,TV Show,Stranger Things,The Duffer Brothers,"Millie Bobby Brown, Finn Wolfhard",United States,"July 4, 2019",2019,TV-14,4 Seasons,"TV Dramas, TV Sci-Fi & Fantasy",Friends encounter supernatural mysteries.
+s9,Movie,Inception,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt","United States, United Kingdom","January 1, 2021",2010,PG-13,148 min,"Action & Adventure, Sci-Fi",A team enters dreams to steal secrets.
+s10,Movie,3 Idiots,Rajkumar Hirani,"Aamir Khan, R. Madhavan, Sharman Joshi",India,"January 1, 2021",2009,PG-13,170 min,"Comedies, Dramas, International Movies",Three friends challenge the education system.
+s11,TV Show,Delhi Crime,Richie Mehta,"Shefali Shah, Rajesh Tailang",India,"March 22, 2019",2019,TV-MA,2 Seasons,"Crime TV Shows, International TV Shows",Police investigate complex criminal cases.
+s12,Movie,Dangal,Nitesh Tiwari,"Aamir Khan, Sakshi Tanwar",India,"June 21, 2017",2016,PG,161 min,"Dramas, International Movies, Sports Movies",A father trains his daughters to wrestle.
+s13,Movie,The Social Dilemma,Jeff Orlowski,"Tristan Harris, Aza Raskin",United States,"September 9, 2020",2020,PG-13,94 min,Documentaries,A documentary explores social media's impact.
+s14,TV Show,The Crown,Unknown,"Claire Foy, Olivia Colman",United Kingdom,"November 15, 2020",2020,TV-MA,4 Seasons,"British TV Shows, TV Dramas",A historical drama about the British monarchy.
+s15,Movie,Parasite,Bong Joon-ho,"Song Kang-ho, Lee Sun-kyun",South Korea,"April 1, 2020",2019,R,132 min,"Dramas, International Movies, Thrillers",Two families become entangled in unexpected ways.
+s16,Movie,Coco,Lee Unkrich,"Anthony Gonzalez, Gael García Bernal",United States,"May 29, 2020",2017,PG,105 min,"Children & Family Movies, Music & Musicals",A boy journeys into the Land of the Dead.
+s17,TV Show,Sacred Games,"Anurag Kashyap, Vikramaditya Motwane","Saif Ali Khan, Nawazuddin Siddiqui",India,"July 6, 2018",2018,TV-MA,2 Seasons,"Crime TV Shows, International TV Shows",A police officer receives a cryptic warning.
+s18,Movie,Interstellar,Christopher Nolan,"Matthew McConaughey, Anne Hathaway","United States, United Kingdom","April 1, 2020",2014,PG-13,169 min,"Action & Adventure, Dramas, Sci-Fi",Explorers travel through a wormhole.
+s19,TV Show,Our Planet,Unknown,David Attenborough,United Kingdom,"April 5, 2019",2019,TV-G,1 Season,"Docuseries, Science & Nature TV",A nature series explores Earth's habitats.
+s20,Movie,The Lunchbox,Ritesh Batra,"Irrfan Khan, Nimrat Kaur","India, France, Germany","January 1, 2020",2013,PG,104 min,"Dramas, Independent Movies, International Movies",A mistaken lunch delivery sparks a friendship.
